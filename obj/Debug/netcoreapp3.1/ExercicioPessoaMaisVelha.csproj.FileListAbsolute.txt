@@ -1,0 +1,13 @@
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\bin\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.exe
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\bin\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.deps.json
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\bin\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.runtimeconfig.json
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\bin\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.runtimeconfig.dev.json
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\bin\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.dll
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\bin\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.pdb
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\obj\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.csprojAssemblyReference.cache
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\obj\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\obj\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.AssemblyInfo.cs
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\obj\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\obj\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.dll
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\obj\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.pdb
+C:\Users\diniz\source\repos\ExercicioPessoaMaisVelha\ExercicioPessoaMaisVelha\obj\Debug\netcoreapp3.1\ExercicioPessoaMaisVelha.genruntimeconfig.cache
